@@ -1,2 +1,5 @@
-package com.prjstudy.demo.filter;public class BeanA {
+package com.prjstudy.demo.filter;
+
+@MyIncludeComponent
+public class BeanA {
 }
